@@ -1,0 +1,3 @@
+$ git config --global user.name "[Vagner]"
+$ git config --global user.email "[vitor.manoel.alves09@aluno.ifce.edu.br]"
+$ git config --global color.ui auto
